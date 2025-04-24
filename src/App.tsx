@@ -1,7 +1,7 @@
 import React from 'react'
 import { Provider } from 'react-redux'
 import { store } from './app/store'
-import { GlobalStyle } from './components/GlobalStyle'
+import { GlobalStyle } from './components/globalStyle'
 import ContactForm from './features/contacts/ContactForm'
 import ContactList from './features/contacts/ContactList'
 

@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
 import { useDispatch } from 'react-redux'
-import { addContact, editContact } from './contactSlice'
-import { Contact } from '../../type/contacs'
+import { addContact, editContact } from './contactsSlice'
+import { Contact } from '../../types/Contact'
 import { v4 as uuidv4 } from 'uuid'
 
 const Form = styled.form`

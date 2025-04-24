@@ -1,7 +1,7 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from 'styled-components'
 
 export const GlobalStyle = createGlobalStyle`
-body {
+  body {
     margin: 0;
     font-family: sans-serif;
     background-color: #f2f2f2;
