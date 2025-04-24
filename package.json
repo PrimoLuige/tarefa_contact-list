@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "@reduxjs/toolkit": "^2.6.1",
-    "@types/styled-components": "^5.1.34",
+    "@reduxjs/toolkit": "^2.7.0",
     "react-redux": "^9.2.0",
     "redux": "^5.0.1",
-    "styled-components": "^6.1.17",
-    "uuid": "^11.1.0"
+    "styled-components": "^6.1.17"
   },
   "devDependencies": {
-    "@types/uuid": "^10.0.0"
+    "@types/styled-components": "^5.1.34",
+    "@types/uuid": "^10.0.0",
+    "uuid": "^11.1.0"
   }
 }
